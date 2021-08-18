@@ -10,6 +10,13 @@ public class CloudApiGatewayApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CloudApiGatewayApplication.class, args);
+
+
+
+
+
+
+		
 	}
 
 }
